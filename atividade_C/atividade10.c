@@ -2,7 +2,7 @@
 
 int idade,menor_idade,maior_idade,qtd_mulheres;
 float salario;
-char sexo;
+char sexo;  
 
 void VerificarIdades(int idade_temp);
 void VerificarSalarioFem(void);

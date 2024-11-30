@@ -29,7 +29,7 @@ O objetivo do site é apresentar o aplicativo Easy Trash, destacando como ele fa
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente do <Wordpress>>
+- Você instalou a versão mais recente do <Wordpress>
 - Certifique-se de instalar o plugin [WPvivid Backup Plugin](https://wordpress.org/plugins/wpvivid-backup-mainwp/) e selecionar o arquivo zip dentro da área de importar do plugin.
 
 ## ☕ Usando o Easy Trash

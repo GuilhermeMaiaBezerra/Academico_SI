@@ -1,9 +1,10 @@
 #   Easy Trash
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <p align="center">
 <img src="images\logo_semfundo.png" width="250">
@@ -19,10 +20,9 @@
 
 O objetivo do site é apresentar o aplicativo Easy Trash, destacando como ele facilita a gestão de resíduos de forma sustentável e eficiente. O site explica as principais funcionalidades do aplicativo, como localizar pontos de coleta, agendar retiradas e acompanhar a pegada de carbono do usuário, incentivando práticas ecológicas e conscientes. Servindo como uma fonte de informações sobre a importância da gestão de resíduos fornece dicas e orientações para promover a redução, reciclagem e o descarte correto, contribuindo para um meio ambiente mais limpo e saudável.
 <p align="center">
-  <img src="images\principal.png" alt="Tela Inicial" width="150">
-  <img src="images\melhor_app.png" alt="Melhor App" width="150">
-  <img src="images\importancia.png" alt="Importancia" width="150">
-  <img src="images\residuos.png" alt="Residuos" width="150">
+  <img src="images\principal.png" alt="Tela Inicial" width="245">
+  <img src="images\melhor_app.png" alt="Melhor App" width="287">
+  <img src="images\importancia.png" alt="Importancia" width="378">
 </p>
 
 ## 💻 Pré-requisitos
